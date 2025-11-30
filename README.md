@@ -1,1 +1,5 @@
-# math-assignment
+![Subtask1A](Subtask1A.png)
+![Subtask1B](Subtask1B.png)
+![Task2](Task2.png)
+![Task3](Task3.png)
+![Task4](Task4.png)
